@@ -77,7 +77,7 @@ namespace Contacts.Infrastructure.DAL.Repositories
                 throw new ArgumentException($"Entity with id {id} not found", nameof(id));
             }
 
-            _dbSet.RemoveRange();
+            _dbSet.RemoveRange(entity);
         }
 
         public async Task RemoveRangeByIds(int[] ids)

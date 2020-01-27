@@ -22,7 +22,7 @@ http://localhost:5000/swagger/index.html
 
 ## Database
 
-SQLLite is bundled in API. Data is saved to bin directory Contacts.db file.
+SQLLite is bundled in API. Data is saved to bin directory in Contacts.db file.
 
 ## Logging
 Logging is enabled to Console

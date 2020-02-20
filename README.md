@@ -5,7 +5,7 @@ Demo API for front-end trial.
 ## Installation
 
 Building and running requires a .NET Core 3.1+ SDK installation with Hosting Bundle. 
-https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-aspnetcore-3.1.1-windows-hosting-bundle-installer
+https://dotnet.microsoft.com/download
 
 ## Running
 
